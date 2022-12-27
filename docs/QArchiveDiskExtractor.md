@@ -305,7 +305,7 @@ This is an overloaded function. Adds the given list of exclude pattern.
 ### void setRawMode(bool enabled)
 <p align="right"><code>[SLOT]</code></p>
 
-When set to `true`, the extraction is performed in 
+When enabled, the extraction is performed in 
 [raw mode](https://github.com/libarchive/libarchive/wiki/FormatRaw).
 
 ---
